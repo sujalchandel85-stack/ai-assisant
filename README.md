@@ -76,7 +76,7 @@ ai-student-assistant/
 1. Download or clone the repository:
 
 ```
-git clone https://github.com/your-username/ai-student-assistant.git
+git clone https://github.com/sujalchandel85-stack/ai-assisant
 ```
 
 2. Open the project folder
